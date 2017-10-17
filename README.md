@@ -46,5 +46,5 @@ pumpkin_seeds :  0.535714285714
 pecan :  0.357142857143
 ######################################
 
-
+If you have questions, shoot me a message on reddit.
 Feel free to modify code if you got the ideas and the skills!
