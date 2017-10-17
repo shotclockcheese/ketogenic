@@ -22,7 +22,7 @@ Go to directory containing ketogenic.py and your daily log (date.txt)
 Type in: python ketogenic.py
 Then you'll be prompted to enter the file name of your log.
 
-An example output looks like this:
+After you've run the script (python ketogenic.py), an example output looks like this:
 
 ![alt text](https://github.com/shotclockcheese/ketogenic/blob/master/example%20output.png)
 
