@@ -1,0 +1,13 @@
+item	portion
+carrot	60
+spinach	60
+avocado	1
+nutpods cream	100
+keto chow	1
+chicken wings	9
+almond milk	3
+MCT oil	3
+walnut	20
+pecan	10
+pumpkin seeds	5
+gelatin	2
