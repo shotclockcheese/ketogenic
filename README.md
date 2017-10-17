@@ -24,27 +24,7 @@ Then you'll be prompted to enter the file name of your log.
 
 An example output looks like this:
 
-user$ python ketogenic.py
-
-input daily log text file
-->1012.txt
-
-######################################
-MACROS BREAKDOWN
-fat: 161.8
-protein: 130.8
-carb: 12.0
-CALORIES: 2103.1
-
-######################################
-CARB BREAKDOWN: TOTAL = 11.9728571429
-carrot :  4.08
-avocado :  4.0
-keto_chow :  2.2
-spinach :  0.8
-pumpkin_seeds :  0.535714285714
-pecan :  0.357142857143
-######################################
+![alt text](https://github.com/shotclockcheese/ketogenic/blob/master/example%20output.png)
 
 If you have questions, shoot me a message on reddit.
 Feel free to modify code if you got the ideas and the skills!
